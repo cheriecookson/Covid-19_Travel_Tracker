@@ -31,4 +31,4 @@ The user can easily save their searched trip to the page. Using Local Storage, t
 [Find your safe travel destination here!](https://cheriecookson.github.io/covid19-travel-tracker/)
 
 ## GitHub Link
-https://github.com/d-belleza/covid-traveling.git
+https://github.com/cheriecookson/covid19-travel-tracker
