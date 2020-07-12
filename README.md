@@ -23,8 +23,12 @@ The user can easily save their searched trip to the page. Using Local Storage, t
 
 ## Screenshot of Application
 
+![image](https://user-images.githubusercontent.com/65319429/87256188-1b271880-c456-11ea-91c1-613d9120e472.png)
+
+![image](https://user-images.githubusercontent.com/65319429/87256162-f92d9600-c455-11ea-8bf1-4f54deac1eb8.png)
+
 ## Deployed Website
-https://d-belleza.github.io/covid-traveling/
+[Find your safe travel destination here!](https://cheriecookson.github.io/covid19-travel-tracker/)
 
 ## GitHub Link
 https://github.com/d-belleza/covid-traveling.git
